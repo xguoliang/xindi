@@ -23,11 +23,13 @@
 - 排课 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG135.jpeg" width="900px" /> <br />
 - 学生资源/教师资源信息 <br />
-<img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG136.jpeg" width="900px" /> <br />
-- 新闻活动列表 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG137.jpeg" width="900px" /> <br />
-- 预约听课功能 <br />
+- 工时管理 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG138.jpeg" width="900px" /> <br />
+- 新闻活动列表 <br />
+<img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG139.jpeg" width="900px" /> <br />
+- 预约听课功能 <br />
+<img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG140.jpeg" width="900px" /> <br />
  
 
 
