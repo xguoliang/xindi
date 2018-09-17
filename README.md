@@ -14,19 +14,19 @@
 源码下载后放到搭建好的appache服务器中，然后执行mysql脚步生成数据库，并做好数据库密码等对接
 
 ## 功能展示
-首页 <br />
+- 首页 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG133.jpeg" width="900px" /> 
-登陆登出 <br />
+- 登陆登出 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG132.jpeg" width="900px" /> 
-课程表 <br />
+- 课程表 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG131.jpeg" width="900px" /> 
-排课 <br />
+- 排课 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG131.jpeg" width="900px" /> 
-学生资源/教师资源信息 <br />
+- 学生资源/教师资源信息 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG131.jpeg" width="900px" /> 
-新闻活动列表 <br />
+- 新闻活动列表 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG131.jpeg" width="900px" /> 
-预约听课功能 <br />
+- 预约听课功能 <br />
 <img src="https://github.com/zaozao1040/zaozao1040.github.io/raw/master/img/xindi/WechatIMG131.jpeg" width="900px" /> 
  
 
